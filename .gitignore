@@ -1,2 +1,4 @@
 *.csv
 *.delta
+spark-warehouse/
+mlruns/
